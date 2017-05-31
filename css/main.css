@@ -8,6 +8,7 @@ ul li {
     font-family: "Open Sans", sans-serif;
 }
 
+
 /* stuff for aside */
 aside {
     background-color: #333;
@@ -30,6 +31,9 @@ path {
 svg {
     margin-right: 1.5em;
 }
+/*aside ul li:hover {
+    background-color: hotpink;
+}*/
  
 /* stuff for both headers */
 .main-headers {
@@ -46,6 +50,10 @@ svg {
     width: 100%;
     display: flex;
 } 
+/*.main-headers ul li:hover {
+    background-color: purple;
+    padding: 1em;
+}*/
 
 /* stuff for first header */
 header {
